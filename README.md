@@ -7,7 +7,7 @@ Turn **Linux Mint Cinnamon** into **macOS Big Sur style**
 
 ## How to use?
 
-1. **Extract** the zip `macos-bigsurify_1_0_4.zip` anywhere you like (e.g. Desktop).
+1. **Extract** the zip `macos-bigsurify_1_0_6.zip` anywhere you like (e.g. Desktop).
 2. **Open the terminal** in the `scripts/` folder.
 3. **Install themes, icons, cursors, and wallpaper** with:
 4. **Apply macOS style immediately** with:
@@ -75,7 +75,7 @@ Trasforma **Linux Mint Cinnamon** nello stile di **macOS Big Sur**
 
 ## Come si usa?
 
-1. **Estrai** lo zip `macos-bigsurify_1_0_4.zip` dove vuoi (es. Scrivania).
+1. **Estrai** lo zip `macos-bigsurify_1_0_6.zip` dove vuoi (es. Scrivania).
 2. **Apri il terminale** nella cartella `scripts/`.
 3. **Installa temi, icone, cursori e wallpaper** con:
 4. **Applica subito lo stile macOS** con:
